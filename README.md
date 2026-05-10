@@ -2,6 +2,8 @@
 
 Omarchy theme based on the Hack The Box color scheme.
 
+![hack-the-box screenshot](assets/omarchy-theme-medium.jpg)
+
 ## Install
 
 ```bash
