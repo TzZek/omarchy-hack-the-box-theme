@@ -25,4 +25,4 @@ omarchy theme set hack-the-box
 - `zellij.kdl` for Zellij
 - `icons.theme` for icon selection
 - `keyboard.rgb` for keyboard lighting
-- `backgrounds/` with the bundled wallpapers
+- `backgrounds/` with the bundled `hack-the-box-*` wallpapers
